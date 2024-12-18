@@ -1,0 +1,4 @@
+http://example/com.url
+https://example.com/url
+http://example.com:8080/url
+https://ubc.ca

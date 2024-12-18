@@ -1,0 +1,4 @@
+mail.*.example.com
+*-special.example.com
+www.*example.com
+example.com
